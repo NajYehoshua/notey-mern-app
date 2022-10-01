@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "notey backend code",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "Jan Joshua Macanip",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.3",
+    "nodemon": "^2.0.20"
+  }
+}
